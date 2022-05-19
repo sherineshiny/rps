@@ -152,4 +152,8 @@
   img {
   width: 50%;
 }
+    .match button {
+  display:block;
+  margin:0.4em auto;
+ }
 }

@@ -72,6 +72,8 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
+    margin-right: 10px;
+    margin-left: 10px;
   }
   
   .player-hand {
